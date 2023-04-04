@@ -4,13 +4,13 @@ Rasmus, Thomas & Markus
 
 
 ### 7. Provide in writing, each student individually, answers to the following questions:
-#a. What are the advantages and disadvantages of using graph databases and which are the best and worse scenarios for it?
-#b. How would you code in SQL the Cypher statements you developed for your graph- algorithms-based query, if the same data was stored in a relational #database?
-#c. How does the DBMS you work with organizes the data storage and the execution of the queries?
-#d. Which methods for scaling and clustering of databases you are familiar with so far?
+### a. What are the advantages and disadvantages of using graph databases and which are the best and worse scenarios for it?
+### b. How would you code in SQL the Cypher statements you developed for your graph- algorithms-based query, if the same data was stored in a relational ### database?
+### c. How does the DBMS you work with organizes the data storage and the execution of the queries?
+### d. Which methods for scaling and clustering of databases you are familiar with so far?
 
 ### Markus
-#A. What are the advantages and disadvantages of using graph databases and which are the best and worse scenarios for it?
+### A. What are the advantages and disadvantages of using graph databases and which are the best and worse scenarios for it?
 Graph databases do have several advantages over a more traditional relational databases, which could include:
 Flexibility, because graph databases can store and manage complex data structures more efficiently than relational databases.
 Performance, in this case graph databases querying relationships between data points, making them ideal for use cases such as social networks and might be good for fraud detection aswell.
