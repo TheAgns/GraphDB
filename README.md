@@ -3,7 +3,7 @@ Rasmus, Thomas & Markus
 
 
 
-### 7. Provide in writing, each student individually, answers to the following questions:
+### Provide in writing, each student individually, answers to the following questions:
 ### a. What are the advantages and disadvantages of using graph databases and which are the best and worse scenarios for it?
 ### b. How would you code in SQL the Cypher statements you developed for your graph- algorithms-based query, if the same data was stored in a relational ### database?
 ### c. How does the DBMS you work with organizes the data storage and the execution of the queries?
